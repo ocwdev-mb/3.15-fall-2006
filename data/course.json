@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ]
+  ],
+  "legacy_uid": "ac1543d4-810f-4533-c56f-dcdd714df39b",
+  "instructors": {
+    "content": [
+      "48c46ffb-0318-5d70-9236-fd1076f7b738"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "452409ad-0bde-d548-e967-f03e0b6a22e0",
+    "website": "3-15-electrical-optical-magnetic-materials-and-devices-fall-2006"
+  },
+  "course_title": "Electrical, Optical & Magnetic Materials and Devices",
+  "course_description": "This course explores the relationships which exist between the performance of electrical, optical, and magnetic devices and the microstructural characteristics of the materials from which they are constructed. The class uses a device-motivated approach which emphasizes emerging technologies. Device applications of physical phenomena are considered, including electrical conductivity and doping, transistors, photodetectors and photovoltaics, luminescence, light emitting diodes, lasers, optical phenomena, photonics, ferromagnetism, and magnetoresistance.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.15",
+  "course_image_thumbnail": {
+    "content": "0bd278d1-03ef-4dfc-2b78-a1cf0fed559d",
+    "website": "3-15-electrical-optical-magnetic-materials-and-devices-fall-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "83eeace1-9312-4c9e-9681-cd5ac52d028e",
+  "site_short_id": "3.15-fall-2006",
+  "title": "Course Metadata"
+}
